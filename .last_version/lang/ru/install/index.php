@@ -1,4 +1,4 @@
 <?php
-$MESS['PRILEPA_AUTHOR'] = 'ÐžÐ»ÐµÐ³ ÐŸÑ€Ð¸Ð»ÐµÐ¿Ð°';
-$MESS['PRILEPA_B24_CRM_BIK_NAME'] = 'Ð ÐµÐºÐ²Ð¸Ð·Ð¸Ñ‚Ñ‹ Ð±Ð°Ð½ÐºÐ° Ð¿Ð¾ ÐµÐ³Ð¾ Ð‘Ð˜Ðš';
-$MESS['PRILEPA_B24_CRM_BIK_DESCRIPTION'] = 'ÐŸÐ¾ Ð´Ð°Ð½Ð½Ñ‹Ð¼ http://www.bik-info.ru';
+$MESS['PRILEPA_AUTHOR'] = 'Îëåã Ïðèëåïà';
+$MESS['PRILEPA_B24_CRM_BIK_NAME'] = 'Ðåêâèçèòû áàíêà ïî åãî ÁÈÊ';
+$MESS['PRILEPA_B24_CRM_BIK_DESCRIPTION'] = 'Ïî äàííûì http://www.bik-info.ru';
