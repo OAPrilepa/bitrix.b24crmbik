@@ -11,6 +11,9 @@
 ![GIF](docs/example.gif)
 
 ## Установка
+### Marketplace 1С-Битрикс
+[Установить из Marketplace](https://marketplace.1c-bitrix.ru/solutions/prilepa.b24crmbik/)
+
 Устанавливается как обычно, начинает работать сразу после инсталляции.
 
 Цепляется на вывод штатного компонента bitrix:crm.requisite.edit по событию main:OnBeforeProlog и подключает свой js.
